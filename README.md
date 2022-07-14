@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Diego Contreras</h1>
-<h3 align="center">Un apasionado estudiante de Ingenieria en Sistemas, de la Universidad Mariano Galvez de Guatemala</h3>
+<h1 align="center">Hi 👋, i´m Diego Contreras</h1>
+<h3 align="center">Hi, I'm Diego Contreras, a passionate Systems Engineering student.</h3>
 
 - 🌱 I’m currently learning **Python, PhP**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dctrs.gutierrez@gmail.com**
 
-- 📄 About me [Me gusta el deporte, ver peliculas, series, escuchar musica y programar](Me gusta el deporte, ver peliculas, series, escuchar musica y programar)
+- 📄 About me [Me gusta el deporte, ver peliculas, series, escuchar musica y programar]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
