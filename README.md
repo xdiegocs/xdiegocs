@@ -7,9 +7,9 @@
 
 - 📝 I regularly write articles on [https://twitter.com/diegoctrs7](https://twitter.com/diegoctrs7)
 
-- 📫 ¿Como Contactarme? **dctrs.gutierrez@gmail.com**
+- 📫 How to reach me **dctrs.gutierrez@gmail.com**
 
-- 📄 A cerca de mi [Me gusta el deporte, ver peliculas, series, escuchar musica y programar](Me gusta el deporte, ver peliculas, series, escuchar musica y programar)
+- 📄 About me [Me gusta el deporte, ver peliculas, series, escuchar musica y programar](Me gusta el deporte, ver peliculas, series, escuchar musica y programar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
