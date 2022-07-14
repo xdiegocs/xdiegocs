@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dctrs.gutierrez@gmail.com**
 
-- 📄 About me [Me gusta el deporte, ver peliculas, series, escuchar musica y programar]
+- 📄 About me [I like sports, watch Movies, Series, listen to Music and Programming]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
