@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i´m Diego Contreras</h1>
+<h1 align="center">Hi 👋, I'm Diego Contrerass</h1>
 <h3 align="center">Hi, I'm Diego Contreras, a passionate Systems Engineering student.</h3>
 
 - 🌱 I’m currently learning **Python, PhP**
