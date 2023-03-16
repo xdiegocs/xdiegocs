@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Python, PhP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/diegoctrs7](https://github.com/diegoctrs7)
-
-- 📝 I regularly write articles on [https://twitter.com/diegoctrs7](https://twitter.com/diegoctrs7)
+- 👨‍💻 All of my projects are available at [https://github.com/xdiegocs](https://github.com/xdiegocs)
 
 - 📫 How to reach me **dctrs.gutierrez@gmail.com**
 
